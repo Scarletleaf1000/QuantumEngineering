@@ -7,6 +7,7 @@ Copyright © 2025 ScarletLeaf1000
 - Distribute modified versions publicly, provided:
     - They are released under this same license.
     - Full source code is made publicly available alongside the modified version.
+- Distribute the Mod in Modpacks
 
 2. Restrictions
    You are NOT permitted to:
